@@ -1,0 +1,10 @@
+{
+    "type": "nulllab-esp32s3-lcd",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "nulllab-esp32s3-lcd",
+            "sdkconfig_append": []
+        }
+    ]
+}
